@@ -1,23 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="320" viewBox="0 0 1120 320">
-<rect width="1120" height="320" rx="26" fill="#f8f7ff"/>
-<rect x="17" y="17" width="1086" height="286" rx="19" fill="#fdfdff" stroke="#dcd8f4" stroke-width="2"/>
-<path d="M17 66H1103" stroke="#e9e6fa" stroke-width="2"/>
-<circle cx="43" cy="42" r="7" fill="#e5aec6"/><circle cx="65" cy="42" r="7" fill="#f0d2a0"/><circle cx="87" cy="42" r="7" fill="#a8dbc8"/>
-<text x="126" y="48" font-family="monospace" font-size="15" fill="#9c91bc">~ / david / hello-world</text>
-<rect x="50" y="99" rx="8" width="160" height="32" fill="#eeeaff"/>
-<text x="69" y="121" font-family="monospace" font-size="15" fill="#7765b0">✦  HELLO_WORLD</text>
-<text x="49" y="191" font-family="Arial, sans-serif" font-weight="800" font-size="69" letter-spacing="-2" fill="#403958">Hi, I'm David.</text>
-<text x="52" y="228" font-family="Arial, sans-serif" font-size="22" fill="#716987">learning · tinkering · building</text>
-<text x="53" y="266" font-family="monospace" font-size="15" fill="#978bb5">&gt; progress, not perfection  <tspan fill="#9bc5b8">_</tspan></text>
-<g transform="translate(781 80)">
-<rect x="0" y="20" width="258" height="173" rx="14" fill="#e3dff6" stroke="#6e6493" stroke-width="5"/>
-<rect x="15" y="35" width="228" height="133" rx="6" fill="#f8f9ff"/>
-<rect x="28" y="52" width="202" height="100" rx="4" fill="#777fa8"/>
-<g font-family="monospace" font-size="18"><text x="44" y="83" fill="#dceef4">&gt; hello!</text><text x="44" y="110" fill="#c3ead5">status: learning</text><text x="44" y="138" fill="#f7c9dc">▮</text></g>
-<rect x="101" y="195" width="58" height="15" rx="4" fill="#a79dc8"/>
-<rect x="65" y="211" width="129" height="12" rx="6" fill="#7b719e"/>
-<path d="M240 10h12v12h-12zM258 0h10v10h-10zM275 22h10v10h-10z" fill="#b4a7df"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="344" viewBox="0 0 1160 344" role="img" aria-labelledby="title desc">
+<title id="title">David's little corner</title><desc id="desc">Pastel pink pixel-inspired terminal, tiny computer and cat under falling sakura petals.</desc>
+<defs>
+ <linearGradient id="page" x2="1" y2="1"><stop stop-color="#fffdfd"/><stop offset=".65" stop-color="#fff6fb"/><stop offset="1" stop-color="#fceaf5"/></linearGradient>
+ <linearGradient id="terminal" x2="0" y2="1"><stop stop-color="#69586d"/><stop offset="1" stop-color="#42374f"/></linearGradient>
+ <linearGradient id="pink" x2="1" y2="1"><stop stop-color="#ffdfec"/><stop offset="1" stop-color="#f6b9d5"/></linearGradient>
+ <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="11" cy="11" r="1.1" fill="#ecc9dd" opacity=".65"/></pattern>
+ <clipPath id="frame"><rect x="10" y="10" width="1140" height="324" rx="22"/></clipPath>
+</defs>
+<rect width="1160" height="344" rx="28" fill="#fcecf5"/>
+<rect x="10" y="10" width="1140" height="324" rx="22" fill="url(#page)" stroke="#f4cade" stroke-width="2"/>
+<g clip-path="url(#frame)">
+ <rect x="13" y="60" width="1134" height="270" fill="url(#dots)" opacity=".7"/>
+ <path d="M10 64H1150" stroke="#f2ccdf" stroke-width="1.5"/>
+ <path d="M-15 289 Q164 254 341 305T718 284T1185 290" stroke="#f8d9e9" stroke-width="2" fill="none" opacity=".7"/>
+ <circle cx="1026" cy="177" r="178" fill="#fff2f8" opacity=".72"/>
+ <path d="M968 66c51 0 74 44 118 41" stroke="#f3cddd" stroke-width="2" fill="none" stroke-dasharray="4 8"/>
+ <g fill="#efbad0" opacity=".75">
+ <path d="M1014 84q-14-14-18-1 1 11 18 1Z"/>
+ <path d="M1065 75q-12-17-20-5-1 11 20 5Z"/>
+ <path d="M1090 140q-13-13-21 1 1 9 21-1Z"/>
+ <path d="M778 92q-14-13-19 0 4 11 19 0Z"/>
+ </g>
 </g>
-<g fill="#b2a6df"><rect x="722" y="120" width="9" height="9"/><rect x="711" y="131" width="9" height="9"/><rect x="733" y="131" width="9" height="9"/><rect x="722" y="142" width="9" height="9"/></g>
-<g fill="#b2decd"><rect x="1061" y="236" width="9" height="9"/><rect x="1050" y="247" width="9" height="9"/><rect x="1072" y="247" width="9" height="9"/><rect x="1061" y="258" width="9" height="9"/></g>
+<circle cx="35" cy="36" r="7" fill="#f39cbd"/><circle cx="58" cy="36" r="7" fill="#f6cb98"/><circle cx="81" cy="36" r="7" fill="#acd7c5"/>
+<text x="112" y="42" font-family="monospace" font-size="13" fill="#ab809a" letter-spacing=".9">/home/david/hello-world</text>
+<text x="1090" y="42" font-family="monospace" font-size="13" fill="#b691a6">✿ 01 / 01</text>
+<rect x="58" y="100" width="188" height="33" rx="7" fill="#ffe9f2" stroke="#f2c3d8"/>
+<rect x="68" y="110" width="11" height="11" fill="#eaa1c0"/><rect x="70" y="107" width="7" height="17" fill="#eaa1c0"/>
+<text x="90" y="122" font-family="monospace" font-weight="bold" font-size="14" fill="#b95888" letter-spacing="1.3">WELCOME.exe</text>
+<text x="54" y="208" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="76" letter-spacing="-3" fill="#514359">hello, david<tspan fill="#df73a4">.</tspan></text>
+<text x="59" y="251" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="500" letter-spacing="1.4" fill="#92788f">learning / building / exploring</text>
+<text x="61" y="294" font-family="monospace" font-size="16" fill="#bb81a0">$ day++;</text>
+<rect x="157" y="280" width="9" height="17" fill="#cf7b9f" opacity=".7"/>
+<g fill="#e7a5c5" opacity=".85"><rect x="658" y="113" width="8" height="8"/><rect x="650" y="121" width="8" height="8"/><rect x="666" y="121" width="8" height="8"/><rect x="658" y="129" width="8" height="8"/></g>
+<g fill="#e6accc" opacity=".9"><rect x="1078" y="271" width="8" height="8"/><rect x="1070" y="279" width="8" height="8"/><rect x="1086" y="279" width="8" height="8"/><rect x="1078" y="287" width="8" height="8"/></g>
+<g transform="translate(771 92)">
+ <ellipse cx="152" cy="220" rx="172" ry="13" fill="#e8cddd" opacity=".55"/>
+ <rect x="21" y="35" width="289" height="175" rx="18" fill="#e9abc9" stroke="#cb83ae" stroke-width="4"/>
+ <rect x="15" y="30" width="289" height="175" rx="18" fill="url(#pink)" stroke="#b980a8" stroke-width="4"/>
+ <rect x="32" y="46" width="254" height="140" rx="9" fill="url(#terminal)"/>
+ <path d="M39 59h240" stroke="#82718a" opacity=".65"/>
+ <g font-family="monospace" font-size="18" font-weight="500">
+  <text x="50" y="82" fill="#ffe3ef">&gt; whoami</text>
+  <text x="50" y="112" fill="#fffafc">david</text>
+  <text x="50" y="143" fill="#bff1d8">status: learning</text>
+  <text x="50" y="170" fill="#f7b4d1">♡_</text>
+ </g>
+ <circle cx="291" cy="196" r="4" fill="#fff8fe"/>
+ <rect x="135" y="208" width="50" height="18" rx="4" fill="#d898b9"/>
+ <rect x="97" y="224" width="125" height="11" rx="5" fill="#bb8dae"/>
+ <path d="M123 18L129 -10L154 2L173 -1L196 -12L201 20 Q213 34 202 48 Q190 63 163 63 Q135 61 123 46 Q115 31 123 18Z" fill="#fffafc" stroke="#7a6176" stroke-width="3.5" stroke-linejoin="round"/>
+ <path d="M132 17L134 0L148 10Z M185 10L196 -1L196 19Z" fill="#f4accc"/>
+ <ellipse cx="144" cy="35" rx="4" ry="5" fill="#65506a"/>
+ <ellipse cx="181" cy="35" rx="4" ry="5" fill="#65506a"/>
+ <ellipse cx="131" cy="43" rx="7" ry="4" fill="#f5c4d8" opacity=".95"/>
+ <ellipse cx="194" cy="43" rx="7" ry="4" fill="#f5c4d8" opacity=".95"/>
+ <path d="M155 43Q162 49 169 43" fill="none" stroke="#8d6c81" stroke-width="2.5" stroke-linecap="round"/>
+ <path d="M124 31Q129 10 162 9Q195 10 203 31" fill="none" stroke="#b16f97" stroke-width="7" stroke-linecap="round"/>
+ <rect x="116" y="26" width="8" height="15" rx="4" fill="#da85b1"/>
+ <rect x="202" y="26" width="8" height="15" rx="4" fill="#da85b1"/>
+</g>
 </svg>
