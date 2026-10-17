@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="320" viewBox="0 0 1120 320">
+<rect width="1120" height="320" rx="26" fill="#f8f7ff"/>
+<rect x="17" y="17" width="1086" height="286" rx="19" fill="#fdfdff" stroke="#dcd8f4" stroke-width="2"/>
+<path d="M17 66H1103" stroke="#e9e6fa" stroke-width="2"/>
+<circle cx="43" cy="42" r="7" fill="#e5aec6"/><circle cx="65" cy="42" r="7" fill="#f0d2a0"/><circle cx="87" cy="42" r="7" fill="#a8dbc8"/>
+<text x="126" y="48" font-family="monospace" font-size="15" fill="#9c91bc">~ / david / hello-world</text>
+<rect x="50" y="99" rx="8" width="160" height="32" fill="#eeeaff"/>
+<text x="69" y="121" font-family="monospace" font-size="15" fill="#7765b0">✦  HELLO_WORLD</text>
+<text x="49" y="191" font-family="Arial, sans-serif" font-weight="800" font-size="69" letter-spacing="-2" fill="#403958">Hi, I'm David.</text>
+<text x="52" y="228" font-family="Arial, sans-serif" font-size="22" fill="#716987">learning · tinkering · building</text>
+<text x="53" y="266" font-family="monospace" font-size="15" fill="#978bb5">&gt; progress, not perfection  <tspan fill="#9bc5b8">_</tspan></text>
+<g transform="translate(781 80)">
+<rect x="0" y="20" width="258" height="173" rx="14" fill="#e3dff6" stroke="#6e6493" stroke-width="5"/>
+<rect x="15" y="35" width="228" height="133" rx="6" fill="#f8f9ff"/>
+<rect x="28" y="52" width="202" height="100" rx="4" fill="#777fa8"/>
+<g font-family="monospace" font-size="18"><text x="44" y="83" fill="#dceef4">&gt; hello!</text><text x="44" y="110" fill="#c3ead5">status: learning</text><text x="44" y="138" fill="#f7c9dc">▮</text></g>
+<rect x="101" y="195" width="58" height="15" rx="4" fill="#a79dc8"/>
+<rect x="65" y="211" width="129" height="12" rx="6" fill="#7b719e"/>
+<path d="M240 10h12v12h-12zM258 0h10v10h-10zM275 22h10v10h-10z" fill="#b4a7df"/>
+</g>
+<g fill="#b2a6df"><rect x="722" y="120" width="9" height="9"/><rect x="711" y="131" width="9" height="9"/><rect x="733" y="131" width="9" height="9"/><rect x="722" y="142" width="9" height="9"/></g>
+<g fill="#b2decd"><rect x="1061" y="236" width="9" height="9"/><rect x="1050" y="247" width="9" height="9"/><rect x="1072" y="247" width="9" height="9"/><rect x="1061" y="258" width="9" height="9"/></g>
+</svg>
